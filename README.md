@@ -5,4 +5,5 @@ Offical implementation of CARAT
 ./train.sh
 
 ## Getting the data
-The datasets can be found at https://drive.google.com/drive/folders/1KG6JMAqB-hdCLbQCwb622ZB3Uwgg6b5H?usp=drive_link
+The datasets can be found at CMU-MOSEI([Aligned](https://drive.google.com/file/d/1A7HTBxle5AOFt66mqNIRDM3DOws_tNXH/view), [UnAligned](http://immortal.multicomp.cs.cmu.edu/raw_datasets/processed_data/cmu-mosei/seq_length_50/))
+
