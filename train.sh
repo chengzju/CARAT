@@ -5,9 +5,9 @@ main.py \
 --lr 5e-5  \
 --gpu_id '1' \
 --seed 1 \
---visual_num_hidden_layers 3 \
---text_num_hidden_layers 3 \
---audio_num_hidden_layers 3 \
+--visual_num_hidden_layers 4 \
+--text_num_hidden_layers 6 \
+--audio_num_hidden_layers 4 \
 --binary_threshold 0.25 \
 --recon_mse_weight 1.0 \
 --aug_mse_weight 1.0 \
