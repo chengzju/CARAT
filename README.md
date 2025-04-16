@@ -9,3 +9,7 @@ The datasets can be found at CMU-MOSEI([Aligned](https://drive.google.com/file/d
 
 ps. The key for the UnAligned is wy4s.
 
+### For M3ED dataset
+1. python ./utils/m3ed_reader.py (prepare 4 data files from the original M3ED paper according line 11-14 in this .py files)
+2. ./train_me3d.sh
+   
