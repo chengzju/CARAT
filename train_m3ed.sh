@@ -19,5 +19,6 @@ main.py \
 --total_aug_clf_weight 1.0 \
 --cl_weight 1.0 \
 --aligned \
+--data_path ./data/m3ed_data.pt \
 
 
